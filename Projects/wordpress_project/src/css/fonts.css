@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Winter story';
+    src: local('../fonts/Winter story Regular'), local('Winter-story-Regular'),
+        url('../fonts/Winterstory-Regular.woff2') format('woff2'),
+        url('../fonts/Winterstory-Regular.woff') format('woff'),
+        url('../fonts/Winterstory-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
